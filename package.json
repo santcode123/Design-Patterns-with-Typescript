@@ -1,0 +1,22 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "nodemon src/index.ts",
+    "startWithoutNodeMon": "npx ts-node  src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "santosh",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
