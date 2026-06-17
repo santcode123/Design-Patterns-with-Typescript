@@ -4,7 +4,7 @@
 
  I will give an example there we can apply strategy pattern.
 
- Example: Create a calculater that will accept two number and has four button +, -, *, / for the operation , once user clicks on any of the button show the output based on pressed operation
+ Example: Create a calculater that will accept two number and has four button +, -, *, / for the operation , once user clicks on any of the button show the output based on pressed operation.
 
  Solution without Strategy design patter:
 

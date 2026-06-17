@@ -291,6 +291,3 @@ console.log(`Daily Revenue after reset: $${store.getDailyRevenue()}`);
  2. each class has single resposibilty
  3. easily testable
 
-
-
-

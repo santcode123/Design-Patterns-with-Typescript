@@ -13,7 +13,7 @@ interface UserInfo {
 
 // utilities
 
-function sendSMS({mobileNo, message}){
+function sendSMS({ mobileNo, message}){
     // send the sms to given mobile number;
 }
 
